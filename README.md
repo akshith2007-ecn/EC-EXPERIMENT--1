@@ -1,4 +1,4 @@
-## EC1419-Electronics Circuits-Lab
+
 **EXP NO:1**
 # <img width="847" height="606" alt="image" src="https://github.com/user-attachments/assets/e89cd66c-73d8-4d5b-845a-89e5ed05bd69" />
 
@@ -26,12 +26,15 @@
 
 ## Tabulation
 
-## Graph
+![WhatsApp Image 2026-03-26 at 10 11 47](https://github.com/user-attachments/assets/3a774833-a79f-4377-967d-e92eb6040dc4)
+
+
+## Calculation
+
+![WhatsApp Image 2026-03-26 at 10 11 47 (1)](https://github.com/user-attachments/assets/c341d25a-416b-447f-a1c8-837892fcb7b4)
 
 
 ## **Result**
-<img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
+![WhatsApp Image 2026-03-26 at 10 11 47 (2)](https://github.com/user-attachments/assets/f88991b4-7073-4866-aa3b-a2fb42f78b03)
 
-**VOLTAGE GAIN =**
 
-**BANDWIDTH =**
